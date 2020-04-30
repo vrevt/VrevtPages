@@ -1,9 +1,9 @@
-# MySite
+## VrevtPages
 
 ### About me
 
-# Projects and ideas
+### Projects and ideas
 
-# Blog - generating from jupiter notebook articles.
+### Blog - generating from jupiter notebook articles.
 
-# Contact
+### Contact
