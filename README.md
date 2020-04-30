@@ -1,6 +1,6 @@
 # MySite
 
-# About me
+## About me
 
 # Projects and ideas
 
