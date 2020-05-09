@@ -6,4 +6,4 @@
 
 ### Blog - generating from jupiter notebook articles.
 
-### Contact
+### Contact and links for me
